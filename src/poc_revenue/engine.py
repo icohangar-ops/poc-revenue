@@ -1,10 +1,8 @@
 """ASC 606 over-time / cost-to-cost percentage of completion.
 
-Koil Energy's filing also carries revenue-recognition and percentage-of-
-completion language. This engine measures a performance obligation that
-transfers over time using cost-to-cost, constrains variable consideration to
-the amount the owner says is probable not to reverse, and accrues the full
-estimated loss on an onerous contract.
+Measures a performance obligation that transfers over time using cost-to-cost,
+constrains variable consideration to the amount the owner says is probable not
+to reverse, and accrues the full estimated loss on an onerous contract.
 
 Point-in-time obligations are out of scope. Identify the performance
 obligation first; this engine measures it.

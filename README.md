@@ -2,7 +2,7 @@
 
 > **Cubiczan stack** — [CHP](https://github.com/Cubiczan/consensus-hardening-protocol) · [control-spine](https://github.com/Cubiczan/control-spine) · **You are here:** `poc-revenue`
 
-**ASC 606 over-time / percentage-of-completion.** Cost-to-cost POC, constrained transaction price, contract asset vs liability, full estimated loss on an onerous contract. Koil Energy's filing carries revenue-recognition and POC language. There was no repo. Now there is.
+**ASC 606 over-time / percentage-of-completion.** Cost-to-cost POC, constrained transaction price, contract asset vs liability, full estimated loss on an onerous contract. Built for any listed company whose over-time revenue control cannot be reperformed from the close file.
 
 Identify the performance obligation first. This engine measures it. It does not decide over-time vs point-in-time.
 
