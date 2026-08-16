@@ -1,0 +1,24 @@
+{
+  "contracts": [
+    {
+      "contract_id": "JOB-1",
+      "description": "installation",
+      "timing": "over_time",
+      "transaction_price": "1000000",
+      "constrained_price": "1000000",
+      "estimated_total_cost": "800000",
+      "costs_incurred_to_date": "200000",
+      "billings_to_date": "300000"
+    },
+    {
+      "contract_id": "JOB-3",
+      "description": "loss job",
+      "timing": "over_time",
+      "transaction_price": "1000000",
+      "constrained_price": "1000000",
+      "estimated_total_cost": "1200000",
+      "costs_incurred_to_date": "300000",
+      "billings_to_date": "0"
+    }
+  ]
+}
