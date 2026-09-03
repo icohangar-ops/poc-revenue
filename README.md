@@ -28,6 +28,8 @@ pytest -q
 poc-revenue examples/contracts.json --period "H1 2026" --owner "Controller"
 ```
 
+UiPath can hand off the same `contracts.json` shape to this CLI, so a document/workorder flow can feed the POC engine without any parser changes.
+
 ## Compliance spine
 
 Vendored `control-spine`. Over-time vs point-in-time is an input in the foundation. The engine measures; it does not identify performance obligations. Unsigned packs are `EXPLORING`. A named owner on a non-empty population reaches `LOCKED`.
